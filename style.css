@@ -1,0 +1,28 @@
+.rouge{
+    color:red;
+    font-size: 20px;
+    font-style: italic;
+    text-align: left;
+    
+}
+.vert{
+    color:green;
+    font-size: 20px;
+    font-style: italic;
+    text-align: center;
+
+}
+.bleu{
+    color:blue;
+    font-size: 20px;
+    font-style: italic;
+    text-align: right;
+
+}
+
+.body {
+    background-image: url(pexels-adrien-olichon-3709370.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
