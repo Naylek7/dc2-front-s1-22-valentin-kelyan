@@ -1,0 +1,57 @@
+
+
+
+EX1
+<div id="dungeon" class="flex justify-end></div>
+
+EX2
+<div id="dungeon" class="flex justify-center></div>
+
+
+EX3
+<div id="dungeon" class="flex justify-around></div>
+
+EX4
+<div id="dungeon" class="flex justify-between></div>
+
+EX5
+<div id="dungeon" class="flex items-center></div>
+
+EX6
+<div id="dungeon" class="flex justify-center items-center></div>
+
+EX7
+<div id="dungeon" class="flex justify-around items-end></div>
+
+EX8
+<div id="dungeon" class="flex flex-row-reverse></div>
+
+EX9
+<div id="dungeon" class="flex flex-col></div>
+
+EX10
+<div id="dungeon" class="flex justify-center flex-col-reverse items-end></div>
+
+EX11
+<div class="yellow-knight order-last></div>
+
+EX12
+<div class="red-knight order-first></div>
+
+EX13
+<div class="yellow-knight self-center></div>
+
+EX14
+<div class="red-knight order-last self-end></div>
+
+EX15
+<div id="dungeon" class="flex flex-wrap></div>
+
+EX16
+<div id="dungeon" class="flex flex-wrap-reverse justify-end></div>
+
+EX17
+<div id="dungeon" class="flex content-between></div>
+
+EX18
+<div id="dungeon" class="flex place-content-center flex-wrap-reverse></div>
