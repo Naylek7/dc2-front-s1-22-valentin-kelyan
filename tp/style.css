@@ -291,7 +291,15 @@ footer h1
     color: #760001;
 }
 
-@media all and (min-width: 900px)
+@media all and (orientation: portrait) and (max-width : 390px)
 {  
-    
+    section {
+        display: flex;
+        flex-direction: column;
+     }
+    header {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
 }
